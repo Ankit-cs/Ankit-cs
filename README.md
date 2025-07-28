@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Ankit-cs
-- 👀 I’m interested in Tech Advancement and Automation
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me JUST DROP ME AN EMAIL
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m Ankit Kumar
+I’m interested in learning new technologies in the Market and never forget  to brush up the basics
+I’m currently on the way to become best problem solver
+How to reach me JUST DROP ME AN EMAIL on ankitcarrer018@gmail.com
+  
