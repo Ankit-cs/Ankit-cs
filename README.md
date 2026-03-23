@@ -43,11 +43,14 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 
 </p>
 
+---
+
+## 💻 Coding Platforms
 
 <table>
 <tr>
 <td>
-<img src="https://cdn.simpleicons.org/codechef/white" width="80"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/CodeChef_Logo.svg" width="70" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
 </td>
 <td>
 
@@ -60,7 +63,7 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 
 <tr>
 <td>
-<img src="https://cdn.simpleicons.org/codeforces/white" width="80"/>
+<img src="https://sta.codeforces.com/s/0/apple-icon-180x180.png" width="70" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
 </td>
 <td>
 
@@ -73,7 +76,7 @@ Candidate Master (2041 Highest)
 
 <tr>
 <td>
-<img src="https://cdn.simpleicons.org/leetcode/white" width="80"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="70" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
 </td>
 <td>
 
@@ -86,7 +89,7 @@ Guardian (2496 Highest)
 
 <tr>
 <td>
-<img src="https://cdn.simpleicons.org/atcoder/white" width="80"/>
+<img src="https://img.atcoder.jp/assets/atcoder.png" width="70" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
 </td>
 <td>
 
@@ -96,4 +99,5 @@ Blue (1685 Highest)
 
 </td>
 </tr>
+
 </table>
