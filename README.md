@@ -56,8 +56,8 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 <td>
 
 **CodeChef**  
-6 ★ (2281 Highest)  
-[Profile](https://www.codechef.com/users/YOUR_HANDLE)
+5 ★ (2112 Highest)  
+[Profile](https://www.codechef.com/users/)
 
 </td>
 </tr>
@@ -69,8 +69,8 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 <td>
 
 **Codeforces**  
-Candidate Master (2041 Highest)  
-[Profile](https://codeforces.com/profile/YOUR_HANDLE)
+Candidate Master (1967 Highest)  
+[Profile](https://codeforces.com/profile/Ankr08)
 
 </td>
 </tr>
@@ -82,23 +82,12 @@ Candidate Master (2041 Highest)
 <td>
 
 **LeetCode**  
-Guardian (2496 Highest)  
-[Profile](https://leetcode.com/YOUR_HANDLE)
+Guardian (2340 Highest)  
+[Profile](https://leetcode.com/u/Ankr08)
 
 </td>
 </tr>
 
-<tr>
-<td align="center">
-<img src="https://img.atcoder.jp/assets/atcoder.png" width="60" height="60" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
-</td>
-<td>
 
-**AtCoder**  
-Blue (1685 Highest)  
-[Profile](https://atcoder.jp/users/YOUR_HANDLE)
-
-</td>
-</tr>
 
 </table>
