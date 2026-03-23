@@ -42,3 +42,18 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
 </p>
+
+
+---
+
+##                 Coding Profiles
+
+<p align="left">
+<a href="https://codeforces.com/profile/Ankr08">
+<img src="https://img.shields.io/badge/Codeforces-1967-purple?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://leetcode.com/u/Ankr08">
+<img src="https://img.shields.io/badge/LeetCode-2340-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
