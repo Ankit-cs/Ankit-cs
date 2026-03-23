@@ -49,12 +49,7 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 ##                 Coding Profiles
 
 
-<p align="left">
-<a href="https://codeforces.com/profile/YOUR_HANDLE">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="35"/>
-</a>
-<a href="https://leetcode.com/YOUR_HANDLE">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="35"/>
-</a>
-</p>
-
+- [Codeforces](https://codeforces.com/profile/YOUR_HANDLE)
+- [CodeChef](https://www.codechef.com/users/YOUR_HANDLE)
+- [LeetCode](https://leetcode.com/YOUR_HANDLE)
+- [AtCoder](https://atcoder.jp/users/YOUR_HANDLE)
