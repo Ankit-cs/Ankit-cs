@@ -45,14 +45,13 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 
 ---
 
-## 💻 Coding Platforms
+
+##      Coding Profiles
 
 <table>
 <tr>
-<td>
-<td>
-<img src="https://cdn.codechef.com/images/cc-logo.svg"/>
-</td>
+<td align="center">
+<img src="https://cdn.codechef.com/images/cc-logo.svg" width="60" height="60" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
 </td>
 <td>
 
@@ -64,8 +63,8 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 </tr>
 
 <tr>
-<td>
-<img src="https://sta.codeforces.com/s/0/apple-icon-180x180.png" width="70" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
+<td align="center">
+<img src="https://sta.codeforces.com/s/0/apple-icon-180x180.png" width="60" height="60" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
 </td>
 <td>
 
@@ -77,8 +76,8 @@ Candidate Master (2041 Highest)
 </tr>
 
 <tr>
-<td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="70" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" height="60" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
 </td>
 <td>
 
@@ -90,8 +89,8 @@ Guardian (2496 Highest)
 </tr>
 
 <tr>
-<td>
-<img src="https://img.atcoder.jp/assets/atcoder.png" width="70" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
+<td align="center">
+<img src="https://img.atcoder.jp/assets/atcoder.png" width="60" height="60" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
 </td>
 <td>
 
