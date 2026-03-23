@@ -48,12 +48,13 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 
 ##                 Coding Profiles
 
-<p align="left">
-<a href="https://codeforces.com/profile/Ankr08">
-<img src="https://img.shields.io/badge/Codeforces-1967-purple?style=for-the-badge&logo=codeforces"/>
-</a>
 
-<a href="https://leetcode.com/u/Ankr08">
-<img src="https://img.shields.io/badge/LeetCode-2340-orange?style=for-the-badge&logo=leetcode"/>
+<p align="left">
+<a href="https://codeforces.com/profile/YOUR_HANDLE">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="35"/>
+</a>
+<a href="https://leetcode.com/YOUR_HANDLE">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="35"/>
 </a>
 </p>
+
