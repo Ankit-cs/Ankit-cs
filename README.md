@@ -50,7 +50,9 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 <table>
 <tr>
 <td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/CodeChef_Logo.svg" width="70" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
+<td>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="70" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
+</td>
 </td>
 <td>
 
