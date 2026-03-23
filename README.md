@@ -44,16 +44,10 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 </p>
 
 
----
-
-## 💻 Coding Platforms
-
 <table>
 <tr>
 <td>
-
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="80"/>
-
+<img src="https://cdn.simpleicons.org/codechef/white" width="80"/>
 </td>
 <td>
 
@@ -66,9 +60,7 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://port1-omega-
 
 <tr>
 <td>
-
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="80"/>
-
+<img src="https://cdn.simpleicons.org/codeforces/white" width="80"/>
 </td>
 <td>
 
@@ -81,9 +73,7 @@ Candidate Master (2041 Highest)
 
 <tr>
 <td>
-
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="80"/>
-
+<img src="https://cdn.simpleicons.org/leetcode/white" width="80"/>
 </td>
 <td>
 
@@ -96,9 +86,7 @@ Guardian (2496 Highest)
 
 <tr>
 <td>
-
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/atcoder.svg" width="80"/>
-
+<img src="https://cdn.simpleicons.org/atcoder/white" width="80"/>
 </td>
 <td>
 
@@ -108,5 +96,4 @@ Blue (1685 Highest)
 
 </td>
 </tr>
-
 </table>
