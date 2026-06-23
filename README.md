@@ -1,4 +1,4 @@
-hey! welcome. this is Ankit, a full-stack dev. visit [here](https://ankitkumaritsme.vercel.app) for more info.
+hey! welcome. this is Ankit, a full-stack dev. visit [here](https://www.ankr.me) for more info.
 
 ---
 
