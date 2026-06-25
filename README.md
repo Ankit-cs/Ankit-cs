@@ -4,11 +4,11 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://www.ankr.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/ankr08"><img src="https://cdn.simpleicons.org/x/white" height="36" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ankitkumaritsme/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="36" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/Ankr08"><img src="https://cdn.simpleicons.org/codechef/5B4638" height="36" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Ankr08"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="36" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Ankr08"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="36" style="vertical-align: middle;" /></a>
+  <a href="https://x.com/ankr08"><img src="https://cdn.simpleicons.org/x/white" width="34" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ankitkumaritsme/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>&nbsp;
+  <a href="https://www.codechef.com/users/Ankr08"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" /></a>&nbsp;
+  <a href="https://codeforces.com/profile/Ankr08"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" /></a>&nbsp;
+  <a href="https://leetcode.com/u/Ankr08"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>
 </p>
 
 ---
@@ -16,9 +16,11 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://www.ankr.me)
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go,html,css,tailwind,react,nextjs,nodejs,express,nest,flask,postgres,mysql,mongodb,redis,graphql,aws,docker,git,npm,linux,bash,numpy,pandas,matplotlib,seaborn,rabbitmq,kafka,langchain,langgraph&perline=12" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go,html,css,tailwind,react,nextjs,nodejs,express,nest,flask" />
 </p>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,aws,docker,git,npm,linux,bash,rabbitmq,kafka,langchain" />
+</p>
 ---
 
 ## 📈 Contribution Activity
