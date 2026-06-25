@@ -19,7 +19,7 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://www.ankr.me)
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go,html,css,tailwind,react,nextjs,nodejs,express,nest" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,mongodb,redis,graphql,aws,docker,git,npm,linux,bash,rabbitmq,kafka,langchain" />
+  <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,mongodb,redis,graphql,aws,docker,git,npm,linux,bash,rabbitmq,kafka,langchain.rust" />
 </p>
 ---
 
