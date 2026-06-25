@@ -16,10 +16,10 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://www.ankr.me)
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go,html,css,tailwind,react,nextjs,nodejs,express,nest,flask" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go,html,css,tailwind,react,nextjs,nodejs,express,nest" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,aws,docker,git,npm,linux,bash,rabbitmq,kafka,langchain" />
+  <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,mongodb,redis,graphql,aws,docker,git,npm,linux,bash,rabbitmq,kafka,langchain" />
 </p>
 ---
 
