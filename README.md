@@ -2,92 +2,43 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://www.ankr.me)
 
 ---
 
-##            Tech Stack
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
+  <a href="https://x.com/ankr08"><img src="https://cdn.simpleicons.org/x/white" height="36" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ankitkumaritsme/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="36" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/Ankr08"><img src="https://cdn.simpleicons.org/codechef/5B4638" height="36" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Ankr08"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="36" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Ankr08"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="36" style="vertical-align: middle;" /></a>
 </p>
 
 ---
 
+## 🛠️ Tech Stack
 
-##      Coding Profiles
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go,html,css,tailwind,react,nextjs,nodejs,express,nest,flask,postgres,mysql,mongodb,redis,graphql,aws,docker,git,npm,linux,bash,numpy,pandas,matplotlib,seaborn,rabbitmq,kafka,langchain,langgraph&perline=12" />
+</p>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://cdn.codechef.com/images/cc-logo.svg" width="60" height="60" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
-</td>
-<td>
+---
 
-**CodeChef**  
-5 ★ (2112 Highest)  
-[Profile](https://www.codechef.com/users/)
+## 📈 Contribution Activity
 
-</td>
-</tr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ankit-cs/Ankit-cs/main/github-contribution-grid-snake-dark.svg?v=2026" alt="GitHub Contribution Grid Snake" width="100%" />
+</p>
 
-<tr>
-<td align="center">
-<img src="https://sta.codeforces.com/s/0/apple-icon-180x180.png" width="60" height="60" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
-</td>
-<td>
+---
 
-**Codeforces**  
-Candidate Master (1967 Highest)  
-[Profile](https://codeforces.com/profile/Ankr08)
+## 📊 GitHub Stats
 
-</td>
-</tr>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-cs&theme=dark&hide_border=true&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" alt="GitHub Streak" />
+</p>
 
-<tr>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" height="60" style="background-color:#1e1e1e; padding:10px; border-radius:10px;"/>
-</td>
-<td>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-cs&bg_color=0d1117&color=FF6B00&line=FF6B00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
 
-**LeetCode**  
-Guardian (2340 Highest)  
-[Profile](https://leetcode.com/u/Ankr08)
-
-</td>
-</tr>
-
-
-
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-cs&layout=compact&hide=mdx,markdown,html,css&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" alt="Top Languages" />
+</p>
