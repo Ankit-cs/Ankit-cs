@@ -19,7 +19,7 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://www.ankr.me)
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go,rust,html,css,tailwind,react,nextjs,nodejs,express" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nest,flask,postgres,mysql,mongodb,redis,graphql,aws,docker,git,npm,linux,bash,rabbitmq,kafka,langchain" />
+  <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,mongodb,redis,graphql,aws,docker,git,npm,linux,bash,rabbitmq,kafka,langchain.rust" />
 </p>
 ---
 
@@ -42,5 +42,5 @@ hey! welcome. this is Ankit, a full-stack dev. visit [here](https://www.ankr.me)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-cs&layout=compact&hide=mdx,markdown,html,css&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-cs&layout=compact&hide=mdx,markdown,html,css&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&v=1" alt="Top Languages" />
 </p>
