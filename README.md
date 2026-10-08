@@ -67,9 +67,11 @@ Currently exploring **Rust, WebRTC peer-to-peer systems, and advanced agentic AI
 
 ### 📈 GitHub Stats & Activity
 
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ankit-cs/Ankit-cs/main/github-contribution-grid-snake-dark.svg?v=2026" alt="GitHub Contribution Grid Snake" width="100%" />
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-cs&theme=dark&hide_border=true&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" alt="GitHub Streak" />
