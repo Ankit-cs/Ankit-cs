@@ -47,7 +47,7 @@ Currently exploring **Rust, WebRTC peer-to-peer systems, and advanced agentic AI
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub_Profile_Views-421-FF6B00?style=flat" alt="GitHub Profile Views" />
+<img src="https://hits.sh/github.com/Ankit-cs/Ankit-cs.svg?label=Profile+Views&extraCount=400&color=FF6B00&style=for-the-badge" alt="GitHub Profile Views" />
 
 </div>
 
@@ -55,11 +55,13 @@ Currently exploring **Rust, WebRTC peer-to-peer systems, and advanced agentic AI
 
 ### 📈 GitHub Stats & Activity
 
-<!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ankit-cs/Ankit-cs/main/github-contribution-grid-snake-dark.svg?v=2026" alt="GitHub Contribution Grid Snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankit-cs/Ankit-cs/main/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankit-cs/Ankit-cs/main/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ankit-cs/Ankit-cs/main/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
--->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-cs&theme=dark&hide_border=true&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" alt="GitHub Streak" />
