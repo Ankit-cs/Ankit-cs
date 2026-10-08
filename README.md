@@ -59,8 +59,7 @@ Currently exploring **Rust, WebRTC peer-to-peer systems, and advanced agentic AI
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Portfolio_Views-421-FF6B00?style=flat" alt="Portfolio Views" />
-<img src="https://komarev.com/ghpvc/?username=Ankit-cs&style=flat&color=FF6B00&label=GitHub+Profile+Views" alt="GitHub Profile Views" />
+<img src="https://img.shields.io/badge/GitHub_Profile_Views-421-FF6B00?style=flat" alt="GitHub Profile Views" />
 
 </div>
 
