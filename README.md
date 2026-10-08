@@ -66,5 +66,5 @@ Currently exploring **Rust, WebRTC peer-to-peer systems, and advanced agentic AI
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-cs&bg_color=0d1117&color=FF6B00&line=FF6B00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-cs&layout=compact&hide=mdx,markdown,html,css&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&v=1" alt="Top Languages" />
 </p>
