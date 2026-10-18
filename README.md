@@ -10,9 +10,9 @@
   <a href="https://x.com/ankr08">X</a> •
   <a href="https://www.linkedin.com/in/ankitkumaritsme/">LinkedIn</a> •
   <a href="https://www.ankr.me">Portfolio</a> •
-  <a href="https://www.codechef.com/users/Ankr08">CodeChef</a> •
+  <!-- <a href="https://www.codechef.com/users/Ankr08">CodeChef</a> •
   <!-- <a href="https://codeforces.com/profile/Ankr08">Codeforces</a> • -->
-  <a href="https://leetcode.com/u/Ankr08">LeetCode</a>
+  <!-- <a href="https://leetcode.com/u/Ankr08">LeetCode</a> --> -->
 </sub>
 
 </div>
