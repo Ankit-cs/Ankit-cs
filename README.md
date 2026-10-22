@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&height=55&lines=Ankit+Kumar" alt="Ankit Kumar" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=65AAD3&center=true&vCenter=true&width=600&height=55&lines=Ankit+Kumar" alt="Ankit Kumar" />
 
 <sub>Full-stack developer building highly scalable systems and intuitive web experiences.</sub>
 
@@ -57,7 +57,7 @@ Currently exploring **low-latency C++ engines, distributed systems in Rust, eBPF
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ankit-cs&color=ff6b00&style=flat&label=Profile+Views&base=315" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ankit-cs&color=65aad3&style=flat&label=Profile+Views&base=315" alt="Profile Views" />
 
 </div>
 
@@ -74,9 +74,9 @@ Currently exploring **low-latency C++ engines, distributed systems in Rust, eBPF
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-cs&theme=dark&hide_border=true&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-cs&theme=dark&hide_border=true&stroke=65AAD3&ring=65AAD3&fire=65AAD3&currStreakLabel=65AAD3" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-cs&layout=compact&hide=mdx,markdown,html,css&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-cs&layout=compact&hide=mdx,markdown,html,css&bg_color=0d1117&title_color=65AAD3&text_color=ffffff&icon_color=65AAD3&v=1" alt="Top Languages" />
 </p>
