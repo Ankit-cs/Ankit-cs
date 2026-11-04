@@ -59,7 +59,7 @@ Currently exploring **low-latency C++ engines, distributed systems in Rust, eBPF
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ankit-cs&color=65aad3&style=flat&label=Profile+Views&base=315" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Profile_Views-369-65aad3?style=flat" alt="Profile Views" />
 
 </div>
 
