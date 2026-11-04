@@ -33,10 +33,12 @@
 - **[Treqo](https://treqocom.vercel.app)** — Real-time collaborative bill-splitting application with Next.js 15 and Convex.
 - **[mySystemDesign](https://mysystemdesign.vercel.app)** — Interactive architecture and system design tracker built with Next.js 15 & Supabase (crossed 9,800+ unique visitors).
 - **[Amazon ML Challenge 2026 (Rank 129)](https://github.com/Ankit-cs/Amazon-ML-Challenge-2026-129th)** — Hybrid deep learning entity resolution architecture combining DeBERTa-v3 with cross-attention fusion and hard-negative mining.
+- **ICPC Asia West Regionalist '26** — Regionalist in the International Collegiate Programming Contest (Asia West).
 - **[IICPC Trading Benchmark Platform](https://github.com/Ankit-cs/iicpcTradingProjectHackathon)** — Distributed hosting & benchmarking platform evaluating trading engines under 1,000+ microstructure bots with eBPF nanosecond telemetry and sandboxed isolation.
 - **[Redefine](https://zentryv1.vercel.app)** — Premium, highly animated web3/gaming metaverse landing page built with Next.js 15, Tailwind CSS v4, and GSAP.
 - **[RepoLens](https://github.com/Ankit-cs/repolens)** — Interactive repository intelligence platform to visualize architecture, dependencies, and code relationships across unfamiliar codebases.
 - **[Wealth](https://github.com/Ankit-cs/Wealth)** — AI-powered personal finance and wealth management mobile application built with React Native (Expo), NativeWind, Supabase, and Google Gemini AI.
+- Contributor to **[Kestra](https://github.com/kestra-io/plugin-miro)** — fixed polling trigger interval evaluation in Miro integration plugin across consecutive cycles ([PR #34](https://github.com/kestra-io/plugin-miro/pull/34)).
 - Contributor to **[SmallVec (Servo)](https://github.com/servo/rust-smallvec)** — pull requests merged into the core crate and trait conversion APIs by upstream maintainers.
 - Contributor to **[Drawa](https://github.com/HimalayanNomads/drawa)** — pull request merged into the canvas interaction and UI engine by upstream maintainers.
 
